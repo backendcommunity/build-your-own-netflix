@@ -14,7 +14,7 @@ Thanks for checking out this backend project.
 
 The project is to build **Movie Streaming API: Build Your Own Netflix** and get the front end working (the front end has already integrated the API).
 
-[Click here to view more details about this project.](https://app.masteringbackend.com/projects/music-streaming-api:-build-your-own-spotify)
+[Click here to view more details about this project.](https://app.masteringbackend.com/projects/build-netflix:-build-your-own-movie-streaming-api)
 
 You can use any tools you like to help you complete the project. So if you've got something you'd like to practice, feel free to give it a go.
 
