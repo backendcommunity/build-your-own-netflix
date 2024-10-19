@@ -1,4 +1,4 @@
-# Mastering Backend - Movie Streaming API: Build Your Own Netflix
+# Mastering Backend - Movie Streaming API: Build Your Netflix
 
 ![Design preview for the Movie Streaming API: Build Your Own Netflix](https://pub-63da695b9ece47c5b3b49bd78b86d884.r2.dev/Movie-Streaming-API-Build-Your-Own-Netflix.png)
 
@@ -20,12 +20,11 @@ You can use any tools you like to help you complete the project. So if you've go
 
 ## Objectives
 
-- Allow users to sign up, log in, and manage their accounts.
-- Enable users to browse, search, and learn courses.
-- Facilitate the enrollment and completion of courses.
-- Ensure efficient management of assignments and exams.
-- Provide robust features for viewing learning history and certificates.
-- Enable instructors to manage courses, students, and grades effectively.
+- Provide users with the ability to browse and search a catalog of movies.
+- Enable users to stream movies on demand in different formats and resolutions.
+- Offer movie details including metadata such as cast, crew, trailers, and reviews.
+- Allow users to manage watchlists, rate movies, and track playback progress.
+- Ensure the API is scalable, secure, and optimized for high-performance video streaming.
 
 Want some support on the project? [Join our community](https://masteringbackend.com/community) and ask questions in the **#project-builders** channel.
 
